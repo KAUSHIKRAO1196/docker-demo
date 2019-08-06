@@ -15,7 +15,7 @@ script:
   app: cloud_app
   env: CloudApp-env 
   bucket_name: elasticbeanstalk-us-east-1-708382675756
-  bucket_path: docker-multi
+  bucket_path: "docker"
   on:
     branch: master
   access_key_id: AKIA2J3XF2MWC5EZPBTV
